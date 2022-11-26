@@ -1,0 +1,37 @@
+[x] Exploit
+[x] Exploit: Creating L2CAP socket
+[x] Exploit: Connecting to target
+[x] Exploit: Sending packet 0
+[x] Exploit: Sending packet 1
+[x] Exploit: Sending packet 2
+[x] Exploit: Sending packet 3
+[x] Exploit: Sending packet 4
+[x] Exploit: Sending packet 5
+[x] Exploit: Sending packet 6
+[x] Exploit: Sending packet 7
+[x] Exploit: Sending packet 8
+[x] Exploit: Sending packet 9
+[x] Exploit: Sending packet 10
+[x] Exploit: Sending packet 11
+[x] Exploit: Sending packet 12
+[x] Exploit: Sending packet 13
+[x] Exploit: Sending packet 14
+[x] Exploit: Sending packet 15
+[x] Exploit: Sending packet 16
+[x] Exploit: Sending packet 17
+[x] Exploit: Sending packet 18
+[x] Exploit: Sending packet 19
+[x] Exploit: Sending packet 20
+[x] Exploit: Sending packet 21
+[x] Exploit: Sending packet 22
+[x] Exploit: Sending packet 23
+[x] Exploit: Sending packet 24
+[x] Exploit: Sending packet 25
+[x] Exploit: Sending packet 26
+[x] Exploit: Sending packet 27
+[x] Exploit: Sending packet 28
+[x] Exploit: Sending packet 29
+[+] Exploit: Done
+00000000  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  │····│····│····│····│
+00000010  00 00 00 00  00 00 00 00  00 00 00 00  00 00        │····│····│····│··│
+0000001e
