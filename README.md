@@ -3,7 +3,7 @@ Recognition of impacts on elements of operating systems implemented in the bluet
 
 # Screenshots of the program:
 
-Screenshot №1
+> Screenshot №1
 ![alt text](https://github.com/0xN1ck/scanner_blueborne/blob/main/scanner_blueborne/screens/1.png)
 
 Screenshot №2
